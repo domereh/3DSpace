@@ -1,0 +1,9 @@
+﻿  GameWindow.cpp
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(129): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(132): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(135): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(138): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(143): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\damian\documents\visual studio 2015\projects\3d space\engine\gamewindow.cpp(146): warning C4305: '+=': truncation from 'double' to 'float'
+  Engine.vcxproj -> C:\Users\Damian\Documents\Visual Studio 2015\Projects\3D Space\Debug\Engine.exe
+  Engine.vcxproj -> C:\Users\Damian\Documents\Visual Studio 2015\Projects\3D Space\Debug\Engine.pdb (Partial PDB)
